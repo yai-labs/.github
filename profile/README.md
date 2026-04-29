@@ -5,6 +5,7 @@
     alt="YAI"
     width="220"
   />
+</div>
 
 YAI Labs builds infrastructure for accountable intelligent operations.
 
