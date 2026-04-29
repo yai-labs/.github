@@ -1,4 +1,10 @@
-# YAI Labs
+
+<div align="center">
+  <img
+    src="assets/yai-transp.png"
+    alt="YAI"
+    width="220"
+  />
 
 YAI Labs builds infrastructure for accountable intelligent operations.
 
