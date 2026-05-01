@@ -1,38 +1,38 @@
 <p align="center">
   <img
-    src="assets/yai-banner.png"
-    alt="YAI Labs — Governed Infrastructure for Intelligent Action"
+    src="assets/yai-banner.svg"
+    alt="YAI Labs — Governed AI Infrastructure"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img alt="Stage" src="https://img.shields.io/badge/stage-active%20development-2563eb?style=flat&labelColor=1f2937" />
-  <img alt="Runtime" src="https://img.shields.io/badge/runtime-governed%20execution-0f766e?style=flat&labelColor=1f2937" />
-  <img alt="Control" src="https://img.shields.io/badge/control-case%20%2F%20governance%20%2F%20supervision-9333ea?style=flat&labelColor=1f2937" />
-  <img alt="Knowledge" src="https://img.shields.io/badge/knowledge-records%20%2F%20lineage-475569?style=flat&labelColor=1f2937" />
-  <img alt="License" src="https://img.shields.io/badge/license-community%20source-374151?style=flat&labelColor=1f2937" />
-  <img alt="Production" src="https://img.shields.io/badge/production-commercial%20license-991b1b?style=flat&labelColor=1f2937" />
+  <img alt="YAI Labs" src="https://img.shields.io/badge/YAI%20Labs-intelligent%20action-e5edf5?style=flat&labelColor=05070a" />
+  <img alt="Category" src="https://img.shields.io/badge/category-governed%20AI%20infrastructure-67e8f9?style=flat&labelColor=07111d" />
+  <img alt="Standard" src="https://img.shields.io/badge/standard-control%20%2F%20evidence%20%2F%20accountability-b6c7d8?style=flat&labelColor=0b1220" />
+  <img alt="Scope" src="https://img.shields.io/badge/scope-runtime%20%2F%20API%20%2F%20SDK%20%2F%20clients-9fb3c8?style=flat&labelColor=111827" />
+  <img alt="Stage" src="https://img.shields.io/badge/stage-active%20development-67e8f9?style=flat&labelColor=07111d" />
+  <img alt="License" src="https://img.shields.io/badge/license-community%20source%20%2B%20commercial-6b7a90?style=flat&labelColor=111827" />
 </p>
 
 <p align="center">
-  <strong>Governed infrastructure for intelligent action.</strong>
+  <strong>Governed AI infrastructure for systems that act.</strong>
 </p>
 
-YAI Labs builds the infrastructure layer for software, automation, operators, and AI agents that need to act inside real operational boundaries.
+YAI Labs builds infrastructure for the next step of software: systems that do not only produce answers, but participate in operations, decisions, workflows, automation, and AI-assisted execution.
 
-As intelligent systems move from answering questions to taking action, the hard problem is no longer intelligence alone. The hard problem is control: what is allowed, who authorized it, what changed, what evidence exists, what boundary applied, and how the result can be inspected, reviewed, challenged, or reused.
+When software acts, intelligence is not enough. Action needs boundaries. It needs authorization. It needs evidence. It needs supervision. It needs memory of what happened and a way to explain why it happened. Without those properties, automation becomes fragile, AI becomes hard to trust, and operational responsibility disappears into logs, prompts, dashboards, and disconnected tools.
 
-YAI is built around that problem.
+YAI exists to make intelligent action governable.
 
-The core system provides a governed case-native runtime where action, context, authority, evidence, supervision, records, knowledge, models, providers, agents, and flows are treated as one operational fabric. API and SDK repositories expose that fabric through stable contracts and client layers. CLI, Loom, and future integrations provide controlled ways to operate the system without bypassing its governance model.
+Our work is based on a simple systems principle: any system that can affect a real environment must expose control, state, constraint, observation, feedback, and accountability. These are not cosmetic features. They are the conditions that allow software, operators, and AI agents to operate safely inside organizations.
 
-We are building toward a simple standard:
+The YAI ecosystem turns that principle into infrastructure. The core runtime provides the controlled execution layer. The API defines stable operational contracts. The SDK makes those contracts usable by applications and integrations. The client surfaces give operators and teams practical ways to work with governed actions without bypassing the control model.
+
+This is not a chatbot stack. It is not an agent demo. It is not governance added after the fact.
+
+YAI is built for environments where action must remain inspectable, constrained, reproducible, reviewable, and accountable from the beginning.
 
 <p align="center">
-  <strong>A system that can act must be able to answer for its actions.</strong>
-</p>
-
-<p align="center">
-  <sub>Make Action Knowable.</sub>
+  <strong>Cut the Fog.</strong>
 </p>
