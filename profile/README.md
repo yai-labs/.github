@@ -2,7 +2,7 @@
   <img
     src="assets/yai-banner-ultra-tight.png"
     alt="YAI Labs"
-    width="78%"
+    width="68%"
   />
 </p>
 
@@ -32,21 +32,20 @@
 
 <h3 align="center">Controlled Machine Action.</h3>
 
-YAI Labs is a research and engineering organization working on the infrastructure needed for machines, software, automations, and AI agents to act with control.
+Controlled machine action is the operating problem behind the next generation of AI systems.
 
-We build systems for a world where software does more than answer, suggest, or generate. It acts. It changes state, executes workflows, coordinates tools, supports decisions, and participates in operational environments.
+As software moves from assistance to execution, the critical question is no longer whether a model can produce a useful answer. The question is whether a machine-driven action can be authorized, constrained, observed, interrupted, reviewed, evidenced, and improved without losing operational context.
 
-That shift requires a different kind of infrastructure.
+YAI Labs builds around that boundary.
 
-YAI Labs works on the layers that make action controllable: runtime systems, governance surfaces, API and SDK contracts, operational clients, catalogs, and developer tools. The goal is to make intelligent systems usable in real work without separating action from control, evidence, supervision, and responsibility.
+The ecosystem combines runtime infrastructure, governance material, API and SDK contracts, and operator-facing clients into a controlled foundation for intelligent action. The purpose is not to wrap models with another interface, or to document governance after the fact. The purpose is to make action itself a managed system surface.
 
-The ecosystem is intentionally modular.
+That means treating execution as something that can carry structure: intent, permission, state, evidence, supervision, consequence, and memory. It also means giving future agents and automations a place to operate that is neither an unbounded chat surface nor a disconnected workflow script.
 
-`yai` is the core system. `api` and `sdk` expose stable contracts. `catalog` organizes governance material. `cli` and `loom` provide operator and developer surfaces. Future clients and integrations can build on the same controlled foundation.
-
-YAI Labs is early, active, and research-driven. The repositories are part of a broader technical program: turning intelligent action into something that can be structured, inspected, governed, and improved.
+The work is active, modular, and deliberately staged. The repositories in this organization represent one technical program: building the infrastructure needed for machines to act under judgment before they are allowed to act at scale.
 
 <br>
+
 <p align="center">
   <code>YAI Ain’t Intelligence · First Judge. Then Dream.</code>
 </p>
