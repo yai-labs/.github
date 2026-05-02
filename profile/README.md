@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="assets/yai-labs-transp3.png"
+    src="assets/yai-banner.png"
     alt="YAI Labs"
     width="78%"
   />
