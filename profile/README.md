@@ -30,7 +30,7 @@
   <a href="https://github.com/yailabs/loom"><code>loom</code></a>
 </p>
 
-<h3 align="center">Make Action Predictable</h3>
+<h3 align="center">Make Action Predictable.</h3>
 YAI Labs is an early-stage research and engineering lab focused on a concrete infrastructure problem: software is moving from producing information to participating in action.
 
 That shift is already visible across AI agents, workflow automation, developer tools, enterprise copilots, robotic process automation, internal operations, and model-driven systems. The unresolved problem is not only whether these systems can reason or generate useful output. The harder question is whether their actions can remain bounded, observable, reproducible, reviewable, and accountable when they affect real work.
