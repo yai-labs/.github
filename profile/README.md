@@ -50,7 +50,9 @@ The ecosystem is organized around that thesis. The core system develops the cont
 YAI is not presented as a finished enterprise platform. It is an active development program for a new kind of operational substrate: one where intelligent systems can act, but where the conditions, consequences, and evidence of action remain available for supervision, review, and improvement.
 
 <p align="center">
-  <strong style="font-size: 22px;">YAI Ain’t Intelligence.</strong>
-  <br /> <br />
-  <code>First Judge. Then Dream.</code>
+  <strong>YAI Ain’t Intelligence.</strong>
+</p>
+
+<p align="center">
+  First <em>Judge.</em> Then <em> Dream.</em>
 </p>
