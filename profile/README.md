@@ -45,9 +45,8 @@ The ecosystem is intentionally modular.
 `yai` is the core system. `api` and `sdk` expose stable contracts. `catalog` organizes governance material. `cli` and `loom` provide operator and developer surfaces. Future clients and integrations can build on the same controlled foundation.
 
 YAI Labs is early, active, and research-driven. The repositories are part of a broader technical program: turning intelligent action into something that can be structured, inspected, governed, and improved.
- 
----
 
+<br>
 <p align="center">
   <code>YAI Ain’t Intelligence · First Judge. Then Dream.</code>
 </p>
