@@ -2,42 +2,35 @@
   <img
     src="assets/yai-labs-transp3.png"
     alt="YAI Labs"
-    width="100%"
+    width="78%"
   />
 </p>
 
 <p align="center">
-  <img alt="AI Infrastructure" src="https://img.shields.io/badge/AI-infrastructure-7c3aed?style=flat&labelColor=12091f" />
-  <img alt="Governed Action" src="https://img.shields.io/badge/governed-action-f97316?style=flat&labelColor=1f0f05" />
-  <img alt="Runtime Systems" src="https://img.shields.io/badge/runtime-systems-9333ea?style=flat&labelColor=12091f" />
-  <img alt="Control Layer" src="https://img.shields.io/badge/control-layer-eab308?style=flat&labelColor=1c1404" />
-  <img alt="API SDK" src="https://img.shields.io/badge/API%20%2F%20SDK-contracts-c084fc?style=flat&labelColor=160a22" />
-  <img alt="Stage" src="https://img.shields.io/badge/stage-active-f59e0b?style=flat&labelColor=1c1204" />
-  <img alt="License" src="https://img.shields.io/badge/license-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
+  <img alt="AI Systems" src="https://img.shields.io/badge/AI-systems-8b5cf6?style=flat&labelColor=12091f" />
+  <img alt="Governed Action" src="https://img.shields.io/badge/action-governed-f97316?style=flat&labelColor=1f0f05" />
+  <img alt="Runtime Layer" src="https://img.shields.io/badge/runtime-control%20layer-9333ea?style=flat&labelColor=12091f" />
+  <img alt="Supervised Agents" src="https://img.shields.io/badge/agents-supervised-2dd4bf?style=flat&labelColor=061b1a" />
+  <img alt="Contracts" src="https://img.shields.io/badge/contracts-API%20%2F%20SDK-c084fc?style=flat&labelColor=160a22" />
+  <img alt="Stage" src="https://img.shields.io/badge/stage-active-14b8a6?style=flat&labelColor=061b1a" />
+  <img alt="Model" src="https://img.shields.io/badge/model-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yailabs/yai"><strong>YAI</strong></a>
+  <a href="https://github.com/yailabs/yai"><code>yai</code></a>
   ·
-  <a href="https://github.com/yailabs/api">API</a>
+  <a href="https://github.com/yailabs/api"><code>api</code></a>
   ·
-  <a href="https://github.com/yailabs/sdk">SDK</a>
+  <a href="https://github.com/yailabs/sdk"><code>sdk</code></a>
   ·
-  <a href="https://github.com/yailabs/catalog">Catalog</a>
+  <a href="https://github.com/yailabs/catalog"><code>catalog</code></a>
   ·
-  <a href="https://github.com/yailabs/cli">CLI</a>
+  <a href="https://github.com/yailabs/cli"><code>cli</code></a>
   ·
-  <a href="https://github.com/yailabs/loom">Loom</a>
+  <a href="https://github.com/yailabs/loom"><code>loom</code></a>
 </p>
 
-<p align="center">
-  <strong>Research and engineering for governed intelligent action.</strong>
-</p>
-
-<p align="center">
-  <sub>Runtime systems · operational control · AI infrastructure · evidence · automation · agents · developer tooling</sub>
-</p>
-
+<h3 align="center">Make Action Knowable.</h3>
 YAI Labs is an early-stage research and engineering lab focused on a concrete infrastructure problem: software is moving from producing information to participating in action.
 
 That shift is already visible across AI agents, workflow automation, developer tools, enterprise copilots, robotic process automation, internal operations, and model-driven systems. The unresolved problem is not only whether these systems can reason or generate useful output. The harder question is whether their actions can remain bounded, observable, reproducible, reviewable, and accountable when they affect real work.
