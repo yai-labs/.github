@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Controlled Machine Action</strong><br />
-  <sup>Infrastructure for intelligent systems that need judgment before scale</sup>
+  <sub>Infrastructure for intelligent systems that need judgment before scale</sub>
 </p>
 
 <p align="center">
@@ -21,6 +21,34 @@
   <img alt="License" src="https://img.shields.io/badge/license-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yailabs/yai"><kbd>yai</kbd></a><br />
+      <sub>core runtime</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yailabs/api"><kbd>api</kbd></a><br />
+      <sub>system contracts</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yailabs/sdk"><kbd>sdk</kbd></a><br />
+      <sub>client layer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yailabs/cli"><kbd>cli</kbd></a><br />
+      <sub>operator client</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yailabs/loom"><kbd>loom</kbd></a><br />
+      <sub>graphical client</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yailabs/catalog"><kbd>catalog</kbd></a><br />
+      <sub>governance packages</sub>
+    </td>
+  </tr>
+</table>
 
 
 Controlled machine action is the control problem behind the next generation of AI systems.
@@ -41,39 +69,6 @@ That foundation gives future agents and automations a place to operate that is n
 
 The program is active, modular, and deliberately staged: one technical track for machines that must act under judgment before they act at scale.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yailabs/yai"><kbd>yai</kbd></a><br />
-      <sub>core runtime</sub>
-    </td>
-    <td align="center">
-      &nbsp;&nbsp;
-      <a href="https://github.com/yailabs/api"><kbd>api</kbd></a><br />
-      <sub>system contracts</sub>
-    </td>
-    <td align="center">
-      &nbsp;&nbsp;
-      <a href="https://github.com/yailabs/sdk"><kbd>sdk</kbd></a><br />
-      <sub>client layer</sub>
-    </td>
-    <td align="center">
-      &nbsp;&nbsp;
-      <a href="https://github.com/yailabs/cli"><kbd>cli</kbd></a><br />
-      <sub>operator client</sub>
-    </td>
-    <td align="center">
-      &nbsp;&nbsp;
-      <a href="https://github.com/yailabs/loom"><kbd>loom</kbd></a><br />
-      <sub>graphical client</sub>
-    </td>
-    <td align="center">
-      &nbsp;&nbsp;
-      <a href="https://github.com/yailabs/catalog"><kbd>catalog</kbd></a><br />
-      <sub>governance packages</sub>
-    </td>
-  </tr>
-</table>
 <br>
 <p align="center">
   <code>YAI Ain’t Intelligence · First Judge. Then Dream.</code>
