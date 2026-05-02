@@ -17,34 +17,46 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yailabs/yai"><code>yai</code></a>
-  ·
-  <a href="https://github.com/yailabs/api"><code>api</code></a>
-  ·
-  <a href="https://github.com/yailabs/sdk"><code>sdk</code></a>
-  ·
-  <a href="https://github.com/yailabs/catalog"><code>catalog</code></a>
-  ·
-  <a href="https://github.com/yailabs/cli"><code>cli</code></a>
-  ·
-  <a href="https://github.com/yailabs/loom"><code>loom</code></a>
+  <strong>Controlled Machine Action</strong><br />
+  <sup>Infrastructure for intelligent systems that need judgment before scale.</sup>
 </p>
 
-<h3 align="center">Controlled Machine Action.</h3>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/yailabs/yai"><strong>yai</strong></a></td>
+    <td align="center"><a href="https://github.com/yailabs/api"><strong>api</strong></a></td>
+    <td align="center"><a href="https://github.com/yailabs/sdk"><strong>sdk</strong></a></td>
+    <td align="center"><a href="https://github.com/yailabs/catalog"><strong>catalog</strong></a></td>
+    <td align="center"><a href="https://github.com/yailabs/cli"><strong>cli</strong></a></td>
+    <td align="center"><a href="https://github.com/yailabs/loom"><strong>loom</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>core runtime</sub></td>
+    <td align="center"><sub>contracts</sub></td>
+    <td align="center"><sub>client layer</sub></td>
+    <td align="center"><sub>control corpus</sub></td>
+    <td align="center"><sub>operator client</sub></td>
+    <td align="center"><sub>workbench</sub></td>
+  </tr>
+</table>
 
 Controlled machine action is the operating problem behind the next generation of AI systems.
 
-As software moves from assistance to execution, the critical question is no longer whether a model can produce a useful answer. The question is whether a machine-driven action can be authorized, constrained, observed, interrupted, reviewed, evidenced, and improved without losing operational context.
+As software moves from assistance to execution, the question changes. The hard part is no longer only whether a model can produce a useful answer. The hard part is whether a machine-driven action can remain authorized, constrained, observable, interruptible, reviewable, evidenced, and improvable without losing operational context.
 
-YAI Labs builds around that boundary.
+<p align="center">
+  <strong>Before action: judgment.</strong><br />
+  <strong>During action: control.</strong><br />
+  <strong>After action: evidence.</strong>
+</p>
 
-The ecosystem combines runtime infrastructure, governance material, API and SDK contracts, and operator-facing clients into a controlled foundation for intelligent action. The purpose is not to wrap models with another interface, or to document governance after the fact. The purpose is to make action itself a managed system surface.
+YAI organizes its ecosystem around that lifecycle.
 
-That means treating execution as something that can carry structure: intent, permission, state, evidence, supervision, consequence, and memory. It also means giving future agents and automations a place to operate that is neither an unbounded chat surface nor a disconnected workflow script.
+Runtime infrastructure, governance material, API and SDK contracts, and operator-facing clients are developed as one controlled foundation for intelligent action. The purpose is not to wrap models with another interface, or to document governance after the fact. The purpose is to keep action, control, evidence, and operational memory structurally connected.
 
-The work is active, modular, and deliberately staged. The repositories in this organization represent one technical program: building the infrastructure needed for machines to act under judgment before they are allowed to act at scale.
+That foundation gives future agents and automations a place to operate that is neither an unbounded chat surface nor a disconnected workflow script.
 
-<br>
+The work is active, modular, and deliberately staged: one technical program for machines that must act under judgment before they act at scale.
 
 <p align="center">
   <code>YAI Ain’t Intelligence · First Judge. Then Dream.</code>
