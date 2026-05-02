@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img alt="AI Systems" src="https://img.shields.io/badge/AI-systems-8b5cf6?style=flat&labelColor=12091f" />
-  <img alt="Governed Action" src="https://img.shields.io/badge/action-governed-f97316?style=flat&labelColor=1f0f05" />
-  <img alt="Runtime Layer" src="https://img.shields.io/badge/runtime-control%20layer-9333ea?style=flat&labelColor=12091f" />
-  <img alt="Supervised Agents" src="https://img.shields.io/badge/agents-supervised-2dd4bf?style=flat&labelColor=061b1a" />
-  <img alt="Contracts" src="https://img.shields.io/badge/contracts-API%20%2F%20SDK-c084fc?style=flat&labelColor=160a22" />
-  <img alt="Stage" src="https://img.shields.io/badge/stage-active-14b8a6?style=flat&labelColor=061b1a" />
+  <img alt="AI Systems" src="https://img.shields.io/badge/AI-systems-6d5aa7?style=flat&labelColor=171022" />
+  <img alt="Governed Action" src="https://img.shields.io/badge/action-governed-b86b3d?style=flat&labelColor=20120a" />
+  <img alt="Runtime Layer" src="https://img.shields.io/badge/runtime-control%20layer-7350a3?style=flat&labelColor=171022" />
+  <img alt="Supervised Agents" src="https://img.shields.io/badge/agents-supervised-4f9f95?style=flat&labelColor=071817" />
+  <img alt="Contracts" src="https://img.shields.io/badge/contracts-API%20%2F%20SDK-9d6fb5?style=flat&labelColor=1a1020" />
+  <img alt="Stage" src="https://img.shields.io/badge/stage-active-4f9f95?style=flat&labelColor=071817" />
   <img alt="License" src="https://img.shields.io/badge/license-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
 </p>
 
