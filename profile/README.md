@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="assets/yai-banner.png"
+    src="assets/yai-labs-transp3.png"
     alt="YAI Labs — Governed AI Infrastructure"
     width="100%"
   />
