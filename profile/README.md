@@ -13,7 +13,7 @@
   <img alt="Supervised Agents" src="https://img.shields.io/badge/agents-supervised-2dd4bf?style=flat&labelColor=061b1a" />
   <img alt="Contracts" src="https://img.shields.io/badge/contracts-API%20%2F%20SDK-c084fc?style=flat&labelColor=160a22" />
   <img alt="Stage" src="https://img.shields.io/badge/stage-active-14b8a6?style=flat&labelColor=061b1a" />
-  <img alt="Model" src="https://img.shields.io/badge/model-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
+  <img alt="License" src="https://img.shields.io/badge/license-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
 </p>
 
 <p align="center">
@@ -30,29 +30,27 @@
   <a href="https://github.com/yailabs/loom"><code>loom</code></a>
 </p>
 
-<h3 align="center">Make Action Predictable.</h3>
-YAI Labs is an early-stage research and engineering lab focused on a concrete infrastructure problem: software is moving from producing information to participating in action.
+<h3 align="center">Controlled Machine Action.</h3>
 
-That shift is already visible across AI agents, workflow automation, developer tools, enterprise copilots, robotic process automation, internal operations, and model-driven systems. The unresolved problem is not only whether these systems can reason or generate useful output. The harder question is whether their actions can remain bounded, observable, reproducible, reviewable, and accountable when they affect real work.
+YAI Labs is a research and engineering organization working on the infrastructure needed for machines, software, automations, and AI agents to act with control.
 
-Today, most of that responsibility is distributed across disconnected layers: prompts, logs, dashboards, policy documents, workflow engines, access controls, ticketing systems, compliance reviews, and human memory. Each layer may be useful, but the action itself often remains structurally weak: it is hard to inspect as a first-class object, hard to replay, hard to compare across cases, hard to supervise before execution, and hard to reuse as operational knowledge.
+We build systems for a world where software does more than answer, suggest, or generate. It acts. It changes state, executes workflows, coordinates tools, supports decisions, and participates in operational environments.
 
-YAI is being built around a different premise: intelligent action should be treated as infrastructure.
+That shift requires a different kind of infrastructure.
 
-The project explores a runtime-centered model where actions, constraints, evidence, supervision, operational state, and client interaction are designed to remain connected from the beginning. The goal is not to add governance as an external report after software has acted. The goal is to make control, inspection, and evidence part of the execution environment itself.
+YAI Labs works on the layers that make action controllable: runtime systems, governance surfaces, API and SDK contracts, operational clients, catalogs, and developer tools. The goal is to make intelligent systems usable in real work without separating action from control, evidence, supervision, and responsibility.
 
-This is both a technical thesis and a market thesis.
+The ecosystem is intentionally modular.
 
-Technically, YAI investigates how software systems, operators, and AI agents can share a controlled execution layer instead of relying on isolated prompts, scripts, logs, and approvals. Commercially, it addresses a growing gap between AI capability and organizational trust: companies can adopt stronger models, but they still need infrastructure that makes AI-assisted work governable inside real operational boundaries.
+`yai` is the core system. `api` and `sdk` expose stable contracts. `catalog` organizes governance material. `cli` and `loom` provide operator and developer surfaces. Future clients and integrations can build on the same controlled foundation.
 
-The ecosystem is organized around that thesis. The core system develops the controlled runtime. API and SDK repositories define and expose stable contracts for external use. Client surfaces provide practical ways for operators, developers, and future applications to interact with governed action without depending on internal implementation details.
-
-YAI is not presented as a finished enterprise platform. It is an active development program for a new kind of operational substrate: one where intelligent systems can act, but where the conditions, consequences, and evidence of action remain available for supervision, review, and improvement.
+YAI Labs is early, active, and research-driven. The repositories are part of a broader technical program: turning intelligent action into something that can be structured, inspected, governed, and improved.
+ 
 
 <p align="center">
   <strong>YAI Ain’t Intelligence.</strong>
 </p>
 
 <p align="center">
-  First <em>Judge.</em> Then <em> Dream.</em>
+  First <em>Judge.</em> Then <em>Dream.</em>
 </p>
