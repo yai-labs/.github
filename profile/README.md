@@ -46,11 +46,10 @@ The ecosystem is intentionally modular.
 
 YAI Labs is early, active, and research-driven. The repositories are part of a broader technical program: turning intelligent action into something that can be structured, inspected, governed, and improved.
  
+---
 
 <p align="center">
-  <strong>YAI Ain’t Intelligence.</strong>
-</p>
-
-<p align="center">
-  First <em>Judge.</em> Then <em>Dream.</em>
+  <code>YAI Ain’t Intelligence.</code>
+  &nbsp;
+  <strong>First Judge. Then Dream.</strong>
 </p>
