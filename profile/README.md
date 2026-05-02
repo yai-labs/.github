@@ -49,7 +49,5 @@ YAI Labs is early, active, and research-driven. The repositories are part of a b
 ---
 
 <p align="center">
-  <code>YAI Ain’t Intelligence.</code>
-  &nbsp;
-  <strong>First Judge. Then Dream.</strong>
+  <code>YAI Ain’t Intelligence · First Judge. Then Dream.</code>
 </p>
