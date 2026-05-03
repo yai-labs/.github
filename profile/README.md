@@ -10,7 +10,7 @@
   <strong>Controlled Machine Action</strong><br />
   <sub>Infrastructure for intelligent systems that need judgment before scale</sub>
 </p>
-
+<br>
 <p align="center">
   <img alt="AI Systems" src="https://img.shields.io/badge/AI-systems-6d5aa7?style=flat&labelColor=171022" />
   <img alt="Governed Action" src="https://img.shields.io/badge/action-governed-b86b3d?style=flat&labelColor=20120a" />
