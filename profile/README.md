@@ -40,7 +40,7 @@ That foundation gives future agents and automations a place to operate that is n
 
 The program is active, modular, and deliberately staged: one technical track for machines that must act under judgment before they act at scale.
 
-<br>
 <p align="center">
-  <code>YAI Ain’t Intelligence · First Judge. Then Dream.</code>
+  <strong>YAI Ain’t Intelligence.</strong><br />
+  <strong><em>First Judge. Then Dream.</em></strong>
 </p>
