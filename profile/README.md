@@ -47,6 +47,5 @@ This organization is not a promise that every internal system, product surface, 
 ---
 
 <p align="center">
-  <strong>YAI Ain’t Intelligence.</strong><br />
-  <strong><em>First Judge. Then Dream.</em></strong>
+  <strong>YAI Ain’t Intelligence. <em>First Judge. Then Dream.</em></strong>
 </p>
