@@ -2,7 +2,7 @@
   <img
     src="assets/yai-banner-ultra-tight1.png"
     alt="YAI Labs"
-    width="60%"
+    width="58%"
   />
 </p>
 
@@ -20,27 +20,29 @@
 
 ---
 
-Controlled machine action is the control problem behind the next generation of AI systems.
+YAI Labs develops infrastructure for intelligent systems that must act under judgment.
 
-As software moves from assistance to execution, the question is no longer only whether a model can produce a useful answer. The harder question is whether machine-driven action can remain authorized, constrained, observable, interruptible, reviewable, evidenced, and improvable without losing operational context.
+As software moves from assistance to execution, the central problem changes. The question is no longer only whether a model can produce a useful answer, but whether machine-driven action can remain authorized, constrained, observable, interruptible, reviewable, evidenced, and improvable without losing operational context.
 
-YAI treats action as a full lifecycle: judgment before execution, control during execution, and evidence after execution.
+YAI treats action as a governed lifecycle: judgment before execution, control during execution, and evidence after execution.
 
-Runtime infrastructure, governance material, API and SDK contracts, and operator-facing clients are developed as one controlled foundation for intelligent action. The purpose is not to wrap models with another interface, or to document governance after the fact. The purpose is to keep action, control, evidence, and operational memory structurally connected.
+The work spans runtime infrastructure, governance material, API and SDK contracts, operator-facing clients, release surfaces, and future account-bound access flows. These pieces are developed as one controlled foundation for machine action, not as disconnected tools or wrappers around model output.
 
-That foundation gives future agents and automations a place to operate that is neither an unbounded chat surface nor a disconnected workflow script.
+The public source tree exposes selected technical surfaces of that foundation. Other surfaces may remain private, staged, or commercial depending on maturity, safety, licensing, and product boundary.
 
 ---
 
-### Repository map
+### Operating posture
 
-| Surface | Role |
-| --- | --- |
-| [`yai`](https://github.com/yailabs/yai) | Core runtime and governed action foundation |
-| [`api`](https://github.com/yailabs/api) | Canonical contracts, schemas, envelopes, and lifecycle states |
-| [`sdk`](https://github.com/yailabs/sdk) | Multi-language client consumption layer |
-| [`cli`](https://github.com/yailabs/cli) | External command-line client workspace |
-| [`loom`](https://github.com/yailabs/loom) | Rust-native terminal operator shell |
+YAI Labs is organized around a few durable constraints:
+
+- machine action should be authorized before it executes;
+- runtime state should remain observable while work is happening;
+- operators should be able to interrupt, inspect, and recover execution;
+- evidence should survive after the action is complete;
+- public surfaces should describe only what is real, available, and bounded.
+
+This organization is not a promise that every internal system, product surface, or future commercial component will be open source. Public repositories represent selected parts of the ecosystem.
 
 ---
 
