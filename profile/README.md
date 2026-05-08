@@ -42,8 +42,6 @@ YAI Labs is organized around a few durable constraints:
 - evidence should survive after the action is complete;
 - public surfaces should describe only what is real, available, and bounded.
 
-This organization is not a promise that every internal system, product surface, or future commercial component will be open source. Public repositories represent selected parts of the ecosystem.
-
 ---
 
 <p align="center">
