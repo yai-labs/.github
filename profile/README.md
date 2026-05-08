@@ -40,7 +40,6 @@ YAI Labs is organized around a few durable constraints:
 - evidence should survive after the action is complete;
 - public surfaces should describe only what is real, available, and bounded.
 
----
 
 <p align="center">
   <strong>YAI Ain’t Intelligence. <em>First Judge. Then Dream.</em></strong>
