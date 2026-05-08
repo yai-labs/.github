@@ -8,7 +8,6 @@
 
 <p align="center">
   <strong>Controlled Machine Action</strong><br />
-  <sub>Infrastructure for intelligent systems that need judgment before scale.</sub>
 </p>
 
 <p align="center">
