@@ -29,7 +29,6 @@ The work spans runtime infrastructure, governance material, API and SDK contract
 
 The public source tree exposes selected technical surfaces of that foundation. Other surfaces may remain private, staged, or commercial depending on maturity, safety, licensing, and product boundary.
 
----
 
 ### Operating posture
 
