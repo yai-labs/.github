@@ -25,8 +25,6 @@ As software moves from assistance to execution, the central problem changes. The
 
 YAI treats action as a governed lifecycle: judgment before execution, control during execution, and evidence after execution.
 
-The work spans runtime infrastructure, governance material, API and SDK contracts, operator-facing clients, release surfaces, and future account-bound access flows. These pieces are developed as one controlled foundation for machine action, not as disconnected tools or wrappers around model output.
-
 The public source tree exposes selected technical surfaces of that foundation. Other surfaces may remain private, staged, or commercial depending on maturity, safety, licensing, and product boundary.
 
 
