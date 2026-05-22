@@ -12,48 +12,38 @@
 
 <p align="center">
   <img alt="Stage" src="https://img.shields.io/badge/stage-active-4f9f95?style=flat&labelColor=071817" />
-  <img alt="Domain" src="https://img.shields.io/badge/domain-governed%20machine%20action-7350a3?style=flat&labelColor=171022" />
-  <img alt="Posture" src="https://img.shields.io/badge/posture-case--bound-b86b3d?style=flat&labelColor=20120a" />
+  <img alt="Focus" src="https://img.shields.io/badge/focus-accountable%20AI%20systems-7350a3?style=flat&labelColor=171022" />
+  <img alt="Posture" src="https://img.shields.io/badge/posture-control%20%2B%20memory-b86b3d?style=flat&labelColor=20120a" />
   <img alt="License" src="https://img.shields.io/badge/license-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
 </p>
 
-YAI Labs works on the control layer for software systems that reason, automate, or act.
+YAI Labs builds infrastructure for AI systems that need to operate under control.
 
-As models become part of real software, the hard problem is no longer generation alone. The hard problem is consequence: who authorized it, what context shaped it, which policy constrained it, what changed, what failed, and what evidence remains after the system moves.
+As artificial intelligence moves from conversation into real software, the problem is no longer only what a model can produce. The harder problem is what happens when that output touches tools, data, workflows, people, and decisions.
 
-YAI treats machine action as something that must be bounded before it becomes operational fact.
+YAI exists for that boundary.
 
-The work is organized around a simple position: intelligent systems need accountable structure. Models may produce reasoning, plans, predictions, or tool calls; YAI is concerned with the layer that turns those attempts into controlled, inspectable, and reconstructable software behavior.
+It provides a control and memory layer around systems that reason, automate, or act: making machine-driven work bounded, observable, reviewable, and accountable over time.
 
 ## Position
 
-YAI is not a model provider, an agent framework, or a generic workflow product.
+YAI is not a model provider, a chatbot framework, or a generic automation builder.
 
-It is infrastructure for governed machine consequence.
+YAI is infrastructure for controlled machine consequence.
 
-Its role is to sit around existing systems and make action explicit: bound to a case, conditioned by policy, attached to evidence, and preserved through operational memory.
+It is built for a future where AI is not just an interface, but a component inside real operational systems.
 
 ## Principles
 
-Machine action should be represented before it is executed.
+AI should remain understandable to the people responsible for it.
 
-Operational context should be explicit, bounded, and reviewable.
+Automation should not erase accountability.
 
-Policy should become structure, not commentary.
+Memory should explain what happened, not only remember what was said.
 
-Memory should support reconstruction, not just conversation.
+Policy should become part of the system, not stay outside it.
 
-Evidence should remain after success, denial, failure, or bypass.
-
-Models and agents should receive controlled projections of context, not unchecked access to the world.
-
-Public claims should stay close to what the system can actually prove.
-
-## Boundary
-
-YAI exists at the edge between reasoning and consequence.
-
-It does not replace the systems people already use. It gives them a control plane for machine-driven work: a durable layer for authorization, memory, evidence, policy, and accountable execution.
+Every meaningful action should leave evidence.
 
 ---
 
