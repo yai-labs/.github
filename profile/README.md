@@ -28,21 +28,14 @@ It provides a control and memory layer around systems that reason, automate, or 
 ## Position
 
 YAI is not a model provider, a chatbot framework, or a generic automation builder.
-
-YAI is infrastructure for controlled machine consequence.
-
-It is built for a future where AI is not just an interface, but a component inside real operational systems.
+It's infrastructure for controlled machine consequence, built for a future where AI is not just an interface, but a component inside real operational systems.
 
 ## Principles
 
 AI should remain understandable to the people responsible for it.
-
 Automation should not erase accountability.
-
 Memory should explain what happened, not only remember what was said.
-
 Policy should become part of the system, not stay outside it.
-
 Every meaningful action should leave evidence.
 
 ---
