@@ -11,11 +11,12 @@
 </p>
 
 <p align="center">
-  <img alt="Stage" src="https://img.shields.io/badge/stage-active-4f9f95?style=flat&labelColor=071817" />
-  <img alt="Focus" src="https://img.shields.io/badge/focus-accountable%20AI%20systems-7350a3?style=flat&labelColor=171022" />
-  <img alt="Posture" src="https://img.shields.io/badge/posture-control%20%2B%20memory-b86b3d?style=flat&labelColor=20120a" />
-  <img alt="License" src="https://img.shields.io/badge/license-source%20%2B%20commercial-64748b?style=flat&labelColor=111827" />
-</p>
+  <img alt="Stage" src="https://img.shields.io/badge/stage-active-312e81?style=flat&labelColor=111827" />
+  <img alt="Focus" src="https://img.shields.io/badge/focus-AI%20systems-4c1d95?style=flat&labelColor=111827" />
+  <img alt="Domain" src="https://img.shields.io/badge/domain-control-4338ca?style=flat&labelColor=111827" />
+  <img alt="Posture" src="https://img.shields.io/badge/posture-governed-475569?style=flat&labelColor=111827" />
+  <img alt="License" src="https://img.shields.io/badge/license-commercial-334155?style=flat&labelColor=111827" />
+</p> 
 
 YAI Labs builds infrastructure for AI systems that need to operate under control.
 
