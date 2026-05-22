@@ -38,7 +38,6 @@ Memory should explain what happened, not only remember what was said.
 Policy should become part of the system, not stay outside it.
 Every meaningful action should leave evidence.
 
----
 
 <p align="center">
   <strong>YAI Ain't Intelligence. <em>First Judge. Then Dream.</em></strong>
