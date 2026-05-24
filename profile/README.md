@@ -24,8 +24,6 @@ As artificial intelligence moves from conversation into real software, the probl
 
 YAI exists for that boundary.
 
-It provides a control and memory layer around systems that reason, automate, or act: making machine-driven work bounded, observable, reviewable, and accountable over time.
-
 ## Position
 
 YAI is not a model provider, a chatbot framework, or a generic automation builder.
@@ -41,5 +39,5 @@ Every meaningful action should leave evidence.
 
 
 <p align="center">
-  <strong>YAI Ain't Intelligence. <em>First Judge. Then Dream.</em></strong>
+  <strong>YAI Ain't Intelligence.
 </p>
