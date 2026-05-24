@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Controlled Machine Consequence</strong><br />
+  <strong>YAI Ain't Intelligence.
 </p>
 
 YAI Labs builds infrastructure for AI systems that need to operate under control.
@@ -30,6 +30,4 @@ Policy should become part of the system, not stay outside it.
 Every meaningful action should leave evidence.
 
 
-<p align="center">
-  <strong>YAI Ain't Intelligence.
-</p>
+
