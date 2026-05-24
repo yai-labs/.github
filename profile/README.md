@@ -10,14 +10,6 @@
   <strong>Controlled Machine Consequence</strong><br />
 </p>
 
-<p align="center">
-  <img alt="Stage" src="https://img.shields.io/badge/stage-active-312e81?style=flat&labelColor=111827" />
-  <img alt="Focus" src="https://img.shields.io/badge/focus-AI%20systems-4c1d95?style=flat&labelColor=111827" />
-  <img alt="Domain" src="https://img.shields.io/badge/domain-control-4338ca?style=flat&labelColor=111827" />
-  <img alt="Posture" src="https://img.shields.io/badge/posture-governed-475569?style=flat&labelColor=111827" />
-  <img alt="License" src="https://img.shields.io/badge/license-commercial-334155?style=flat&labelColor=111827" />
-</p> 
-
 YAI Labs builds infrastructure for AI systems that need to operate under control.
 
 As artificial intelligence moves from conversation into real software, the problem is no longer only what a model can produce. The harder problem is what happens when that output touches tools, data, workflows, people, and decisions.
