@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  Infrastructure for controlled machine consequence.
+  Infrastructure for governed machine consequence.
 </p>
